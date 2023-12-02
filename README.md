@@ -27,11 +27,8 @@
     <p>Gereksinimleri aşağıdaki komutu kullanarak yükleyebilirsiniz:</p>
     <pre><code>pip install -r requirements.txt</code></pre>
     <h2>Lisans</h2>
-    <p>Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için <a href="LICENSE">LICENSE</a> dosyasına bakabilirsiniz.</p>
-    <h2>Katkılar</h2>
-    <p>Katkılarınızı bekliyoruz. Lütfen katkıda bulunma detayları için <a href="CONTRIBUTING.md">CONTRIBUTING</a> dosyasını okuyun.</p>
     <h2>İletişim</h2>
-    <p>Proje ile ilgili sorularınız veya geri bildirimleriniz için <a href="mailto:ornek@ornek.com">e-posta</a> ile iletişime geçebilirsiniz.</p>
+    <p>Proje ile ilgili sorularınız veya geri bildirimleriniz için <a href="https://www.instagram.com/1polat.exe/">instagram</a> ile iletişime geçebilirsiniz.</p>
     <hr>
     <p><strong>Not:</strong> Bu araç sadece eğitim amaçlıdır ve kötü amaçlı kullanım için tasarlanmamıştır. Lütfen yasal ve etik kurallara uyunuz.</p>
 </body>
