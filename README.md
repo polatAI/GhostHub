@@ -4,45 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GhostHub - DNS Değiştirici ve Tor Aktivatörü</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: auto;
-            color: #333;
-        }
-        h1,
-        h2,
-        h3 {
-            color: #007bff;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 5px;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow: auto;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        blockquote {
-            background-color: #f9f9f9;
-            border-left: 4px solid #007bff;
-            margin: 10px 0;
-            padding: 10px;
-        }
-    </style>
 </head>
 <body>
     <h1>GhostHub - DNS Değiştirici ve Tor Aktivatörü</h1>
