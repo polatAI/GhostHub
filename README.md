@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>GhostHub - DNS Değiştirici ve Tor Aktivatörü</h1>
-    <img src="path/to/your/image.jpg" alt="GhostHub Image" width="500">
+    <img src="https://i.hizliresim.com/908d0k2.png" alt="GhostHub Image" width="500">
     <p>GhostHub, etik hackerlik eğitimleri ve test ortamları için tasarlanmış bir Python aracıdır. Bu araç, DNS adreslerini değiştirme ve Tor ağına bağlanma yeteneklerine sahiptir, böylece gizliliğinizi artırabilirsiniz. Ayrıca, Tor Browser'ı başlatma özelliğini içermektedir.</p>
     <h2>Kullanım</h2>
     <p>Projeyi kullanmak için şu adımları takip edebilirsiniz:</p>
